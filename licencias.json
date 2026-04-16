@@ -1,5 +1,9 @@
 {
-  "_comentario": "Licencias Generador Plano Contable",
-  "licencias": {
-  }
-}
+     "_comentario": "Licencias Generador Plano Contable",
+     "licencias": {
+       "PLANO-R95D-7MDD-E7FA": {
+         "activo": true,
+         "propietario": "Yo Administrador"
+       }
+     }
+   }
